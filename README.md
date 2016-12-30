@@ -1,0 +1,3 @@
+# PermissionTest
+###郭神直播时讲的运行时权限封装的Demo
+通过新建一个BaseActivity来进行对运行时权限的封装，然后让新Activity继承BaseActivity即可，降低了代码重复性，提高了效率
